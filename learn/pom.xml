@@ -68,7 +68,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<excludes>
-						<exclude>
+						<exclude><!-- lookup parent from repository -->
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId><!-- lookup parent from repository -->
 						</exclude>
