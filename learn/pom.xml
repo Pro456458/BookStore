@@ -70,7 +70,7 @@
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
-							<artifactId>lombok</artifactId><!-- lombok for auto getter setter -->
+							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
 				</configuration>
